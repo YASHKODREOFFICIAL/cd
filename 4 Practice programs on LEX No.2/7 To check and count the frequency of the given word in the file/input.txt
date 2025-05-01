@@ -1,0 +1,3 @@
+This is a sample text file.
+The word example appears multiple times in this example.
+Example is a common word in this example sentence.
