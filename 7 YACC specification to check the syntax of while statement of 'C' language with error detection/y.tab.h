@@ -44,11 +44,10 @@
      RPAREN = 260,
      LBRACE = 261,
      RBRACE = 262,
-     NUMBER = 263,
-     IDENTIFIER = 264,
-     RELOP = 265,
-     ASSIGN = 266,
-     SEMICOLON = 267
+     SEMI = 263,
+     ID = 264,
+     NUMBER = 265,
+     EXIT = 266
    };
 #endif
 /* Tokens.  */
@@ -57,11 +56,10 @@
 #define RPAREN 260
 #define LBRACE 261
 #define RBRACE 262
-#define NUMBER 263
-#define IDENTIFIER 264
-#define RELOP 265
-#define ASSIGN 266
-#define SEMICOLON 267
+#define SEMI 263
+#define ID 264
+#define NUMBER 265
+#define EXIT 266
 
 
 
